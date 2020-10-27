@@ -4,10 +4,10 @@
 
 ### Documentation
 
-Qualex Institute (QLX-I) [Data Science:Python Setup and Installation Checklist](http://qlx.services/institute/files/qlx-iDataScienceChecklist.pdf)
+Qualex Institute (QLX-I) [Data Science:Python Setup and Installation Checklist](http://qlx.services/institute/files/datascience/qlx-iDataScienceChecklist.pdf)
 
 ### Data Science For Dummies
-[Data Science For Dummies](https://qlx.services/institute/files/datascience/Data_Science_For_Dummies.pdf) (O’Reilly). Copyright 2016 O’Reilly Media, Inc., ISBN: 978-1-491-96465-1.
+[Data Science For Dummies](https://qlx.services/institute/files/datascience/datascience/Data_Science_For_Dummies.pdf) (O’Reilly). Copyright 2016 O’Reilly Media, Inc., ISBN: 978-1-491-96465-1.
 
 ### Python
 - - -
@@ -36,7 +36,7 @@ Qualex Institute (QLX-I) [Data Science: **Julia** Setup and Installation Checkli
 
 ## Useful Links
 
-**Github** - https://git.qlx.com/gsjackson/QLX-I/
+**Github** - https://github.com/QLX/QLX-I/
 
 **Slack** - https://qlx-i.slack.com
 

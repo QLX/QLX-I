@@ -4,7 +4,7 @@
 
 ### Documentation
 
-Qualex Institute (QLX-I) [Big Data: Setup and Installation Checklist](http://qlx.services/institute/files/qlx-iBigDataChecklist.pdf)
+Qualex Institute (QLX-I) [Big Data: Setup and Installation Checklist](http://qlx.services/institute/files/bigdata/qlx-iBigDataChecklist.pdf)
 
 ### Big Data
 - - -
@@ -29,7 +29,7 @@ Qualex Institute (QLX-I) [Big Data: Setup and Installation Checklist](http://qlx
 
 ## Useful Links
 
-**Github** - https://git.qlx.com/gsjackson/QLX-I/
+**Github** - https://github.com/QLX/QLX-I/
 
 **Slack** - https://qlx-i.slack.com
 
@@ -63,6 +63,12 @@ Qualex Institute (QLX-I) [Big Data: Setup and Installation Checklist](http://qlx
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/enterlifeonline/techtalentsouth/blob/master/bigdata/history/index.ipynb)
 
 In the last two decades, the volume and speed with which data is generated has changed – beyond measures of human comprehension. The total amount of data in the world was 4.4 zettabytes in 2013. That is set to rise steeply to 44 zettabytes by 2020. To put that in perspective, 44 zettabytes is equivalent to 44 trillion gigabytes. Even with the most advanced technologies today, it is impossible to analyze all this data. The need to process these increasingly larger (and unstructured) data sets is how traditional data analysis transformed into ‘Big Data’ in the last decade.
+
+### Master Big Data In Little Time / OpenLDAP
+
+OpenLDAP is a free, open-source implementation of the Lightweight Directory Access Protocol developed by the OpenLDAP Project. It is released under its own BSD-style license called the OpenLDAP Public License. LDAP is a platform-independent protocol.
+
+[OpenLDAP](https://git.qlx.com/OpenLDAP)
 
 ### Master Big Data In Little Time / Language: SQL
 
